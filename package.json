@@ -1,0 +1,24 @@
+{
+  "name": "live_node",
+  "version": "1.0.0",
+  "description": "live server package testing",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAliEng/Node-live-server.git"
+  },
+  "author": "Sid Ali MAHMOUDI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudAliEng/Node-live-server/issues"
+  },
+  "homepage": "https://github.com/MahmoudAliEng/Node-live-server#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
