@@ -2,12 +2,12 @@
 
 This is a starting project using the **lite-server** module of *node.js*.
 
-After cloning the project, run:__
+After cloning the project, run:
 
 * ```npm install``` to install the node project dependencies.
-* ```npm start``` to start the project.__ 
-After running the 2nd command you should see your browser opening the index.html on
-port *3000* just like the screenshot below__
+* ```npm start``` to start the project.
+<br>After running the 2nd command you should see your browser opening the index.html on
+port *3000* just like the screenshot below <br>
 
 ![alt text](./result.PNG "Result")
 
